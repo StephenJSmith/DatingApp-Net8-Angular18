@@ -3,8 +3,9 @@ by Neil Cummings
 
 Technologies
 Server side:
-.NET 8
+.NET 8 Web API
 Entity Framework
+Postman API Testing
 SQLite
 
 Client side:
