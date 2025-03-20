@@ -1,0 +1,14 @@
+Code along Udemy course "Build an app with ASP.NET Core and Angular from scratch"
+by Neil Cummings
+
+Technologies
+Server side:
+.NET 8
+Entity Framework
+SQLite
+
+Client side:
+Angular 17.3
+TypeScript
+Bootstrap 5
+
